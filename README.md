@@ -1,16 +1,12 @@
+[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fo-shizzle.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
 ### Hi there 👋
+I'm Bruno, a student who likes to look at code and occasionally writes his own.
 
-<!--
-**stepcity/stepcity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m working on Peak, an operating system with the goal of being simple and elegant.
+I’m learning C and Python and have a reasonable understanding of both.
+My Discord is superiorUser#6383 and I can sometimes be found at #fvwm and #osdev on Freenode as spotracite.
+Feel free to ask about anything!
